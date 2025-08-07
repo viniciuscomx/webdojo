@@ -1,0 +1,48 @@
+{
+  "personal": {
+    "nome": "Vinicius Gomes",
+    "email": "papito@teste.com.br",
+    "phone": "16 98845-0701",
+    "consultancyType": "Individual",
+    "personType": "Pessoa Física",
+    "documentType": "CPF",
+    "documentNumber": "12345678900",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube"
+    ],
+    "file": "cypress/fixtures/arquivoTeste.pdf",
+    "description": "Preciso de uma consultoria sobre Cypress",
+    "techs": [
+      "Javascript",
+      "Cypress",
+      "Docker",
+      "Node.js"
+    ],
+    "termsOfUse": true
+  },
+  "inCompany": {
+    "nome": "Vinicius Gomes",
+    "email": "papito@teste.com.br",
+    "phone": "16 98845-0701",
+    "consultancyType": "In Company",
+    "personType": "Pessoa Jurídica",
+    "documentType": "CNPJ",
+    "documentNumber": "03674941000107",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy"
+    ],
+    "file": "cypress/fixtures/arquivoTeste.pdf",
+    "description": "Preciso de uma consultoria sobre Cypress. Estou em busca de uma consultoria especializada em Cypress. Tenho utilizado a ferramenta no dia a dia, mas preciso aprofundar meu conhecimento para escrever testes mais eficientes, compreender melhor a integração com pipelines de CI/CD e aplicar boas práticas em projetos reais.",
+    "techs": [
+      "Javascript",
+      "Cypress",
+      "Docker"
+    ],
+    "termsOfUse": true
+  }
+}
